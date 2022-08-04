@@ -1,4 +1,8 @@
 #!/bin/python3
+"""
+Author: mrghosti3
+License: MIT
+"""
 import unittest
 
 class NegativeNumException(Exception):
